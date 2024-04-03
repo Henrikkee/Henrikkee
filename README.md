@@ -1,7 +1,7 @@
 ## Hi there, I'm Henrique Monteiro 👋
 
 - 🧑‍💻 Full-Stack Developer
-- 🎓 Software Engineering Student
+- 🎓 Bachelor's Degree in Software Engineering
 - 🌎 Brazil
 
 ### Programming Languages
